@@ -1,0 +1,13 @@
+size(800,800);
+//ellipse(50,50,350,350);
+//rect(50,50,20,20);
+stroke(255,0,0);
+strokeWeight(40);
+line(50,50,350,350);
+strokeWeight(20);
+stroke(0,255,0);
+line(50,100,350,300);
+stroke(0,0,255);
+strokeWeight(10);
+line(0,300,300,150);
+println("Yannick is een coole kikker");
