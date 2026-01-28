@@ -38,4 +38,4 @@
 //8.5
 import java.util.HashMap;
 HashMap<String, String> telefonboek = new HashMap<>();
-telefonboek.put("Yannick Lutgens", "0647346587");
+telefonboek.put("Gertwin", "06 6767676767");
